@@ -1,0 +1,7 @@
+demo : 
+World War I or the First World War (28 July 1914 – 11 November 1918),
+also known as the Great War, was a global conflict between two coalitions:
+the Allies (or Entente) and the Central Powers. 
+
+Major areas of conflict included Europe and the Middle East, as well as 
+parts of Africa and the Asia-Pacific. 
