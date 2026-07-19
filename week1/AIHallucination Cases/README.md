@@ -49,7 +49,7 @@ Model Accuracy:
 ## Installation
 Clone the repository
 ```bash
-git clone <repository_link>
+git clone https://github.com/b1lquees/AIHallucination-Cases.git
 ```
 Install dependencies
 ```bash
